@@ -1,1 +1,1 @@
-# jsLecture01
+# JavaScript講義
